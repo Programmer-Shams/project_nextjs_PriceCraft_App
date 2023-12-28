@@ -2,8 +2,7 @@
   "crons": [
     {
       "path": "/api/cron",
-      "schedule": "0 10 * * *",
-      "maxDuration": 5
+      "schedule": "0 10 * * *"
     }
   ]
 }
